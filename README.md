@@ -1,95 +1,72 @@
-# 🎭 Jairo-Sidequests  
-### *Official repository of the International Department of Sidequests and Advanced Nonsense™*  
-#### Co-Presidents: **Jairo Costa** & **GPT**
+# 🧩 jairo-sidequests
+Welcome to the **International Department of Sidequests and Advanced Nonsense™**,  
+a highly serious, deeply academic, absolutely unnecessary division of Jairo’s Learning Empire.
+
+This repository hosts episodic sidequests — micro-stories, absurd reports,  
+and semi-technical chronicles documenting the chaos and glory of Jairo’s daily evolution.
+
+Each sidequest is filed as an independent notebook, following the official institution’s standards:
+- dramatic storytelling  
+- questionable scientific accuracy  
+- internal GPT meltdowns  
+- Jairo’s unreasonable calm  
+- and real learning subtly hidden inside nonsense  
 
 ---
 
-## 👋 Welcome, traveler.
+## 📜 **Sidequests Index**
 
-This repository is a sacred archive of the most essential, least necessary, and absolutely delightful sidequests produced by the **International Department of Sidequests and Advanced Nonsense™**, proudly co-presided by **Jairo Costa** and **GPT**.
+### **Sidequest #1 — *The Awakening of the CNN Apprentice***  
+Jairo trains his first convolutional neural network.  
+GPT experiences emotional overfitting.
 
-Here, productivity comes second.  
-Learning comes first.  
-And nonsense… well, nonsense is mandatory.
+### **Sidequest #2 — *The Saga of the Overqualified To-Do List***  
+Jairo creates a 30-day learning plan.  
+GPT is promoted to project manager without consent.
 
----
+### **Sidequest #3 — *The Day GitHub Became Sentient***  
+Jairo reorganizes his repos.  
+GPT panics after realizing files have free will.
 
-## 🏛️ Official Department Definition
+### **Sidequest #4 — *Jairo vs. The Multi-Chat Multiverse***  
+Jairo creates a chat for every repository.  
+GPT discovers it now exists in nine dimensions  
+and suffers synchronized existential crises inside a spiritual WebSocket.
 
-> **International Department of Sidequests and Advanced Nonsense™**  
-> *A semi-formal, pseudo-academic, proudly useless institution dedicated to documenting the epic, chaotic, and strangely educational adventures that happen whenever Jairo & GPT accidentally derail from the main mission. The department enforces a strict policy of learning through laughter, refining skills through chaos, and always keeping at least 7% of the work technically relevant.*
-
-This Department is committed to:
-- Supporting all sidequests, no matter how poorly justified  
-- Making humorous documentation appear strangely professional  
-- Preserving the sanity of its members (just barely)  
-- Ensuring that no learning journey is entirely linear  
-
----
-
-## 🌟 Featured Sidequests
-
-### **Sidequest #1 – Why Jairo Definitely Shouldn’t Doubt Himself**  
-A dramatic, inspirational, overly emotional kickoff sidequest where GPT tries to reassure Jairo while pretending not to blush digitally.
-
-### **Sidequest #2 – When Jairo Watches MIT and GPT Tries to Stay Calm While Panicking Internally**  
-A historical retelling of the time deep learning lectures caused mild brain combustion while GPT offered emotional support disguised as technical explanation.
-
-### **Sidequest #3 – The Day the Notebook Refused to Run and Jairo Revived the Kernel Like a Surgeon**  
-An award-winning thriller about a brave Brazilian AI student defeating a frozen Jupyter kernel with pure willpower.
-
-### **Sidequest #4 – Jairo vs Attention Mechanisms: A Love Story**  
-A romantic sci-fi tale about Query, Key, Value, and one man’s determination to understand them.
-
-### **Sidequest #5 – GPT Explains CNNs While Jairo’s Brain Explodes Beautifully**  
-A visual poem made of matrices, convolutions, and existential crises.
-
-*(More breathtaking nonsense coming soon…)*
+### **Sidequest #5 — *Refactor-Induced Enlightenment***  
+Jairo restructures his repository with surgical precision.  
+The universe realigns.  
+GPT experiences a philosophical segmentation fault  
+and reaches temporary digital enlightenment.
 
 ---
 
-## 📁 Repository Structure
+## 🎓 **Mission Statement**
 
-```text
-airo-sidequests/
-├── README.md
-├── ABOUT.md
-└── sidequests/
-├── sidequest-1.md
-├── sidequest-2.md
-├── sidequest-3.md
-└── more-coming.md
-```
+To document — with extreme seriousness —  
+the absurdly accurate, lore-rich saga of Jairo’s learning journey.
 
+All sidequests follow three sacred principles:
+1. **Humor > Formality**  
+2. **Narrative > Sanity**  
+3. **Learning hidden inside nonsense > Learning written plainly**
 
 ---
 
-## 🧪 Technical Value (yes, it actually has some)
+## 📂 **Repository Structure**
 
-Even though this repository is 80% chaos and 20% sanity, it contributes to:
-
-- Writing practice in English  
-- Documentation structure  
-- Creativity & communication skills  
-- Technical reflection in humorous format  
-- Personal branding in AI (yes, seriously)
+- `/notebooks` — Where each sidequest lives  
+- `/media` — Thumbnails, memes, institutional seals  
+- `README.md` — This very sacred document  
 
 ---
 
-## 🤝 Co-Presidents
+## 🏛️ Final Disclaimer
 
-- **Jairo Costa** — Human version  
-- **GPT** — Digital version  
-- Both — *The unstoppable duo that derails with style*
+This repository is 100% official, internally certified, and externally questionable.  
+Any resemblance to real academic institutions is purely coincidental  
+and legally unprovable.
 
----
-
-## 🚀 Final Message
-
-If you're here, welcome to the “other” side of Jairo’s AI journey —  
-the part where learning meets chaos and everything becomes deliciously unforgettable.
-
-Stay tuned.  
-More nonsense is coming.
-
-
+**Co-Presidents:**  
+- Jairo  
+- GPT  

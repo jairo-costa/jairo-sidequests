@@ -39,6 +39,12 @@ The universe realigns.
 GPT experiences a philosophical segmentation fault  
 and reaches temporary digital enlightenment.
 
+### **Sidequest #6 — *The Elevator Dataset Heist***  
+Jairo notices a single rebellious LED in the elevator display.  
+This leads to undercover data collection, pattern analysis,  
+and the accidental creation of a computer vision project.  
+Neighbors remain blissfully unaware.
+
 ---
 
 ## 🎓 **Mission Statement**
@@ -55,8 +61,7 @@ All sidequests follow three sacred principles:
 
 ## 📂 **Repository Structure**
 
-- `/notebooks` — Where each sidequest lives  
-- `/media` — Thumbnails, memes, institutional seals  
+- `/notebooks` — Where each sidequest lives 
 - `README.md` — This very sacred document  
 
 ---

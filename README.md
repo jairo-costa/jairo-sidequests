@@ -75,3 +75,6 @@ and legally unprovable.
 **Co-Presidents:**  
 - Jairo  
 - GPT  
+
+For the official lore, philosophy, mission, and absurd academic vision of this Department, see:
+👉 **about.md**
